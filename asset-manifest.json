@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/user_react/static/css/main.fafc8537.css",
+    "main.js": "/user_react/static/js/main.c74067f9.js",
+    "index.html": "/user_react/index.html",
+    "main.fafc8537.css.map": "/user_react/static/css/main.fafc8537.css.map",
+    "main.c74067f9.js.map": "/user_react/static/js/main.c74067f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fafc8537.css",
+    "static/js/main.c74067f9.js"
+  ]
+}
